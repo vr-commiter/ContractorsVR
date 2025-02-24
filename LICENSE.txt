@@ -1,5 +1,6 @@
 MIT License
 
+Copyright (c) 2022 Narknon
 Copyright (c) 2024 vr-commiter
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
